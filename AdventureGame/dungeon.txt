@@ -1,0 +1,17 @@
+4
+0
+You wake up in a dimly lit room, there is moss on the floor and on the walls. There are 2 paths: you can go south or east.
+true false false false
+1
+You enter a room with a very bright light. It fills you with DETERMINATION. You can go back the way you came, because there are no more doorways.
+true true false false
+2
+You wander into a room with a key hanging from a string. You wonder what it belongs to.. *wink wink*
+false false true false
+3
+You walk into a room with a wooden chest right in the middle. You wonder what's in it. You can go north or east.
+false false false true
+0 -1  3  1 -1
+1 -1  2 -1  0
+2  1 -1 -1  3
+3  0 -1  2 -1
