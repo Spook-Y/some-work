@@ -1,0 +1,9 @@
+c:\users\jaq\documents\visual studio 2015\Projects\TestExercise2\TestExercise2\bin\Debug\TestExercise2.exe.config
+c:\users\jaq\documents\visual studio 2015\Projects\TestExercise2\TestExercise2\obj\Debug\TestExercise2.csprojResolveAssemblyReference.cache
+c:\users\jaq\documents\visual studio 2015\Projects\TestExercise2\TestExercise2\obj\Debug\TestExercise2.Form1.resources
+c:\users\jaq\documents\visual studio 2015\Projects\TestExercise2\TestExercise2\obj\Debug\TestExercise2.Properties.Resources.resources
+c:\users\jaq\documents\visual studio 2015\Projects\TestExercise2\TestExercise2\obj\Debug\TestExercise2.csproj.GenerateResource.Cache
+c:\users\jaq\documents\visual studio 2015\Projects\TestExercise2\TestExercise2\bin\Debug\TestExercise2.exe
+c:\users\jaq\documents\visual studio 2015\Projects\TestExercise2\TestExercise2\bin\Debug\TestExercise2.pdb
+c:\users\jaq\documents\visual studio 2015\Projects\TestExercise2\TestExercise2\obj\Debug\TestExercise2.exe
+c:\users\jaq\documents\visual studio 2015\Projects\TestExercise2\TestExercise2\obj\Debug\TestExercise2.pdb
